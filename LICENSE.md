@@ -1,4 +1,4 @@
-# 
+# Clover Desktop helps you manage your business and accept payments with a single, integrated platform.
 
 
 
